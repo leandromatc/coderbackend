@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Computadora",
+    "precio": 1100,
+    "thumbnail": "www.prueba.com/prueba.png",
+    "id": 1
+  },
+  {
+    "title": "Televisor LED",
+    "precio": 600,
+    "thumbnail": "www.prueba.com/prueba.png",
+    "id": 2
+  },
+  {
+    "title": "Airpods",
+    "precio": 200,
+    "thumbnail": "www.prueba.com/prueba.png",
+    "id": 3
+  },
+  {
+    "title": "Heladera",
+    "precio": 700,
+    "thumbnail": "www.prueba.com/prueba.png",
+    "id": 4
+  },
+  {
+    "title": "Celular",
+    "precio": 980,
+    "thumbnail": "www.prueba.com/prueba.png",
+    "id": 5
+  },
