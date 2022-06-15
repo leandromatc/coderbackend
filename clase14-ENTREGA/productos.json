@@ -1,0 +1,29 @@
+[
+    {
+        "name": "ISO Protein",
+        "price": 490,
+        "code": "fa3qwg",
+        "photo": "../img/isoProtein.png",
+        "desc": "Iso Protein es desarrollada por Body Builders",
+        "id": 1,
+        "stock": 15
+    },
+    {
+        "name": "Whey Gourmet",
+        "price": 990,
+        "desc": "Whey Gourmet es desarrollada por PRO-FIT",
+        "photo": "../img/wheygourmet.png",
+        "code": "fa3qwg",
+        "stock": "10",
+        "id": 3
+    },
+    {
+        "name": "Whey Gourmet Premium",
+        "price": 1190,
+        "desc": "Whey Gourmet Premium es desarrollada por PRO-FIT",
+        "photo": "../img/wheypremium.png",
+        "code": "2141sd",
+        "stock": "5",
+        "id": 4
+    }
+]
