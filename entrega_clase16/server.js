@@ -1,12 +1,11 @@
-import express from "express";
+const express = require("express");
 const { Router } = express;
-import Api from "./apiFunc.js";
-import Chat from "./ChatFunc.js";
-import { Server as IOServer } from "socket.io";
-import { Server as HttpServer } from "http";
-import {sqliteOptions} from "./sqlite.js";
-import {mariaOptions} from "./mariaDb.js";
-import cors from "cors";
+const Api = require("./apiFunc.js");
+const Chat = require("./ChatFunc.js");
+const { Server: IOServer } = require("socket.io");
+const { Server: HttpServer } = require("http");
+const {sqliteOptions} = require("./sqlite.js");
+const {mariaOptions} = require("./mariaDb.js");
 
 const app = express()
 const httpServer = new HttpServer(app);
